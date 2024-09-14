@@ -1,0 +1,33 @@
+OUTPUT 1
+
+INPUT: CASH	20 5	NUMBER	102
+INFO: Number cannot be accepted. Please try again with another number.
+RETURN: Returning your change: 25 TL
+
+INPUT: CASH	10 5	PROTEIN	35
+INFO: Insufficient money, try again with more money.
+RETURN: Returning your change: 15 TL
+
+INPUT: CASH	50	NUMBER	20
+INFO: This slot is empty, your money will be returned.
+RETURN: Returning your change: 50 TL
+
+INPUT: CASH	10 20	CALORIE	250
+INFO: Product not found, your money will be returned.
+RETURN: Returning your change: 30 TL
+
+INPUT: CASH	20 20	CALORIE	300
+INFO: Product not found, your money will be returned.
+RETURN: Returning your change: 40 TL
+
+
+OUTPUT 2
+
+INPUT: CASH	10 5	PROTEIN	35
+INFO: Insufficient money, try again with more money.
+RETURN: Returning your change: 15 TL
+
+INPUT: CASH	20 10	PROTEIN	40
+INFO: Product not found, your money will be returned.
+RETURN: Returning your change: 30 TL
+

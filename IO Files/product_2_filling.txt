@@ -1,0 +1,2311 @@
+PRODUCT 1: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 2: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 1)___Meatball Sandwich(868, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 3: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 1)___Meatball Sandwich(868, 1)___Protein Bar(211, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 4: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 1)___Meatball Sandwich(868, 1)___Protein Bar(211, 1)___Chicken Wrap(560, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 5: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 1)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 6: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 1)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 7: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 1)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 1)___Cookie(153, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 8: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 2)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 1)___Cookie(153, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 9: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 2)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 1)___Cookie(153, 1)___Water(0, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 10: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 2)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 1)___Cookie(153, 1)___Water(0, 1)___Cheese Sandwich(367, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 11: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 2)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 1)___Cookie(153, 1)___Water(0, 2)___Cheese Sandwich(367, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 12: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 2)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 1)___Water(0, 2)___Cheese Sandwich(367, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 13: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 1)___Water(0, 2)___Cheese Sandwich(367, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 14: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 1)___Water(0, 2)___Cheese Sandwich(367, 1)___
+Energy Drink(148, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 15: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 1)___Water(0, 2)___Cheese Sandwich(367, 1)___
+Energy Drink(148, 1)___Protein Shake(163, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 16: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 1)___Water(0, 3)___Cheese Sandwich(367, 1)___
+Energy Drink(148, 1)___Protein Shake(163, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 17: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 1)___Water(0, 4)___Cheese Sandwich(367, 1)___
+Energy Drink(148, 1)___Protein Shake(163, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 18: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 1)___Water(0, 4)___Cheese Sandwich(367, 1)___
+Energy Drink(148, 1)___Protein Shake(163, 1)___Smoothie(175, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 19: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 1)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 2)___Water(0, 4)___Cheese Sandwich(367, 1)___
+Energy Drink(148, 1)___Protein Shake(163, 1)___Smoothie(175, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 20: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 2)___Protein Bar(211, 2)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 2)___Water(0, 4)___Cheese Sandwich(367, 1)___
+Energy Drink(148, 1)___Protein Shake(163, 1)___Smoothie(175, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 21: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 2)___Protein Bar(211, 3)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 2)___Water(0, 4)___Cheese Sandwich(367, 1)___
+Energy Drink(148, 1)___Protein Shake(163, 1)___Smoothie(175, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 22: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 2)___Protein Bar(211, 3)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 2)___Water(0, 4)___Cheese Sandwich(367, 2)___
+Energy Drink(148, 1)___Protein Shake(163, 1)___Smoothie(175, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 23: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 2)___Protein Bar(211, 3)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 2)___Water(0, 5)___Cheese Sandwich(367, 2)___
+Energy Drink(148, 1)___Protein Shake(163, 1)___Smoothie(175, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 24: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 2)___Protein Bar(211, 3)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 2)___Water(0, 5)___Cheese Sandwich(367, 2)___
+Energy Drink(148, 1)___Protein Shake(163, 1)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 25: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 2)___Protein Bar(211, 3)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 2)___Water(0, 5)___Cheese Sandwich(367, 2)___
+Energy Drink(148, 2)___Protein Shake(163, 1)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 26: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 3)___Meatball Sandwich(868, 2)___Protein Bar(211, 3)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 3)___Water(0, 5)___Cheese Sandwich(367, 2)___
+Energy Drink(148, 2)___Protein Shake(163, 1)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 27: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 4)___Meatball Sandwich(868, 2)___Protein Bar(211, 3)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 3)___Water(0, 5)___Cheese Sandwich(367, 2)___
+Energy Drink(148, 2)___Protein Shake(163, 1)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 28: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 4)___Meatball Sandwich(868, 2)___Protein Bar(211, 3)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 3)___Water(0, 5)___Cheese Sandwich(367, 2)___
+Energy Drink(148, 2)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 29: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 4)___Meatball Sandwich(868, 2)___Protein Bar(211, 4)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 3)___Water(0, 5)___Cheese Sandwich(367, 2)___
+Energy Drink(148, 2)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 30: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 4)___Meatball Sandwich(868, 2)___Protein Bar(211, 4)___Chicken Wrap(560, 1)___
+Beef Sandwich(487, 2)___Cookie(153, 3)___Water(0, 5)___Cheese Sandwich(367, 3)___
+Energy Drink(148, 2)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 31: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 4)___Meatball Sandwich(868, 2)___Protein Bar(211, 4)___Chicken Wrap(560, 2)___
+Beef Sandwich(487, 2)___Cookie(153, 3)___Water(0, 5)___Cheese Sandwich(367, 3)___
+Energy Drink(148, 2)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 32: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 4)___Meatball Sandwich(868, 2)___Protein Bar(211, 4)___Chicken Wrap(560, 2)___
+Beef Sandwich(487, 3)___Cookie(153, 3)___Water(0, 5)___Cheese Sandwich(367, 3)___
+Energy Drink(148, 2)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 33: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 5)___Meatball Sandwich(868, 2)___Protein Bar(211, 4)___Chicken Wrap(560, 2)___
+Beef Sandwich(487, 3)___Cookie(153, 3)___Water(0, 5)___Cheese Sandwich(367, 3)___
+Energy Drink(148, 2)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 34: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 5)___Meatball Sandwich(868, 2)___Protein Bar(211, 4)___Chicken Wrap(560, 2)___
+Beef Sandwich(487, 3)___Cookie(153, 3)___Water(0, 5)___Cheese Sandwich(367, 3)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 35: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 5)___Meatball Sandwich(868, 2)___Protein Bar(211, 4)___Chicken Wrap(560, 2)___
+Beef Sandwich(487, 3)___Cookie(153, 4)___Water(0, 5)___Cheese Sandwich(367, 3)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 36: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 5)___Meatball Sandwich(868, 2)___Protein Bar(211, 5)___Chicken Wrap(560, 2)___
+Beef Sandwich(487, 3)___Cookie(153, 4)___Water(0, 5)___Cheese Sandwich(367, 3)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 37: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 5)___Meatball Sandwich(868, 2)___Protein Bar(211, 5)___Chicken Wrap(560, 2)___
+Beef Sandwich(487, 3)___Cookie(153, 4)___Water(0, 5)___Cheese Sandwich(367, 4)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 38: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 5)___Meatball Sandwich(868, 3)___Protein Bar(211, 5)___Chicken Wrap(560, 2)___
+Beef Sandwich(487, 3)___Cookie(153, 4)___Water(0, 5)___Cheese Sandwich(367, 4)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 39: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 5)___Meatball Sandwich(868, 3)___Protein Bar(211, 5)___Chicken Wrap(560, 2)___
+Beef Sandwich(487, 3)___Cookie(153, 4)___Water(0, 5)___Cheese Sandwich(367, 4)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 40: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 5)___Meatball Sandwich(868, 3)___Protein Bar(211, 5)___Chicken Wrap(560, 3)___
+Beef Sandwich(487, 3)___Cookie(153, 4)___Water(0, 5)___Cheese Sandwich(367, 4)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 41: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 5)___Meatball Sandwich(868, 3)___Protein Bar(211, 5)___Chicken Wrap(560, 3)___
+Beef Sandwich(487, 3)___Cookie(153, 5)___Water(0, 5)___Cheese Sandwich(367, 4)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 42: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 6)___Meatball Sandwich(868, 3)___Protein Bar(211, 5)___Chicken Wrap(560, 3)___
+Beef Sandwich(487, 3)___Cookie(153, 5)___Water(0, 5)___Cheese Sandwich(367, 4)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 43: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 6)___Meatball Sandwich(868, 3)___Protein Bar(211, 6)___Chicken Wrap(560, 3)___
+Beef Sandwich(487, 3)___Cookie(153, 5)___Water(0, 5)___Cheese Sandwich(367, 4)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 44: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 6)___Meatball Sandwich(868, 4)___Protein Bar(211, 6)___Chicken Wrap(560, 3)___
+Beef Sandwich(487, 3)___Cookie(153, 5)___Water(0, 5)___Cheese Sandwich(367, 4)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 45: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 6)___Meatball Sandwich(868, 4)___Protein Bar(211, 6)___Chicken Wrap(560, 3)___
+Beef Sandwich(487, 3)___Cookie(153, 5)___Water(0, 5)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 46: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 6)___Meatball Sandwich(868, 4)___Protein Bar(211, 6)___Chicken Wrap(560, 3)___
+Beef Sandwich(487, 3)___Cookie(153, 5)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 47: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 6)___Meatball Sandwich(868, 4)___Protein Bar(211, 6)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 3)___Cookie(153, 5)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 48: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 6)___Meatball Sandwich(868, 4)___Protein Bar(211, 6)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 5)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 49: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 6)___Meatball Sandwich(868, 5)___Protein Bar(211, 6)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 5)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 50: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 7)___Meatball Sandwich(868, 5)___Protein Bar(211, 6)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 5)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 2)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 51: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 7)___Meatball Sandwich(868, 5)___Protein Bar(211, 6)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 5)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 52: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 7)___Meatball Sandwich(868, 6)___Protein Bar(211, 6)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 5)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 3)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 53: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 7)___Meatball Sandwich(868, 6)___Protein Bar(211, 6)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 5)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 4)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 54: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 7)___Meatball Sandwich(868, 6)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 5)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 4)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 55: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 7)___Meatball Sandwich(868, 6)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 6)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 4)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 56: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 8)___Meatball Sandwich(868, 6)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 6)___Water(0, 6)___Cheese Sandwich(367, 5)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 4)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 57: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 8)___Meatball Sandwich(868, 6)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 6)___Water(0, 6)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 4)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 58: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 8)___Meatball Sandwich(868, 7)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 6)___Water(0, 6)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 4)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 59: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 8)___Meatball Sandwich(868, 7)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 6)___Water(0, 6)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 5)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 60: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 8)___Meatball Sandwich(868, 7)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 6)___Water(0, 7)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 3)___Protein Shake(163, 3)___Smoothie(175, 5)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 61: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 8)___Meatball Sandwich(868, 7)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 6)___Water(0, 7)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 4)___Protein Shake(163, 3)___Smoothie(175, 5)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 62: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 8)___Meatball Sandwich(868, 7)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 7)___Water(0, 7)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 4)___Protein Shake(163, 3)___Smoothie(175, 5)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 63: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 9)___Meatball Sandwich(868, 7)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 7)___Water(0, 7)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 4)___Protein Shake(163, 3)___Smoothie(175, 5)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 64: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 9)___Meatball Sandwich(868, 7)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 7)___Water(0, 7)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 5)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 65: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 9)___Meatball Sandwich(868, 7)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 7)___Water(0, 8)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 5)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 66: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 9)___Meatball Sandwich(868, 7)___Protein Bar(211, 7)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 7)___Water(0, 8)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 67: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 9)___Meatball Sandwich(868, 7)___Protein Bar(211, 8)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 7)___Water(0, 8)___Cheese Sandwich(367, 6)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 68: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 9)___Meatball Sandwich(868, 7)___Protein Bar(211, 8)___Chicken Wrap(560, 4)___
+Beef Sandwich(487, 4)___Cookie(153, 7)___Water(0, 8)___Cheese Sandwich(367, 7)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 69: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 9)___Meatball Sandwich(868, 7)___Protein Bar(211, 8)___Chicken Wrap(560, 5)___
+Beef Sandwich(487, 4)___Cookie(153, 7)___Water(0, 8)___Cheese Sandwich(367, 7)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 70: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 9)___Meatball Sandwich(868, 7)___Protein Bar(211, 8)___Chicken Wrap(560, 6)___
+Beef Sandwich(487, 4)___Cookie(153, 7)___Water(0, 8)___Cheese Sandwich(367, 7)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 71: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 9)___Meatball Sandwich(868, 7)___Protein Bar(211, 8)___Chicken Wrap(560, 6)___
+Beef Sandwich(487, 4)___Cookie(153, 8)___Water(0, 8)___Cheese Sandwich(367, 7)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 72: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 8)___Chicken Wrap(560, 6)___
+Beef Sandwich(487, 4)___Cookie(153, 8)___Water(0, 8)___Cheese Sandwich(367, 7)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 73: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 9)___Chicken Wrap(560, 6)___
+Beef Sandwich(487, 4)___Cookie(153, 8)___Water(0, 8)___Cheese Sandwich(367, 7)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 74: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 9)___Chicken Wrap(560, 6)___
+Beef Sandwich(487, 4)___Cookie(153, 8)___Water(0, 8)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 75: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 9)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 4)___Cookie(153, 8)___Water(0, 8)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 76: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 9)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 8)___Water(0, 8)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 6)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 77: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 9)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 8)___Water(0, 8)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 7)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 78: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 9)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 8)___Water(0, 9)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 4)___Smoothie(175, 7)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 79: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 9)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 8)___Water(0, 9)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 7)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 80: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 9)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 8)___Water(0, 10)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 7)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 81: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 9)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 8)___Water(0, 10)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 8)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 82: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 8)___Water(0, 10)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 8)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 83: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 9)___Water(0, 10)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 8)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 84: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 9)___Water(0, 10)___Cheese Sandwich(367, 8)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 8)___Fried Rice(478, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 85: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 9)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 8)___Fried Rice(478, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 86: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 9)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 8)___Fried Rice(478, 1)___
+Water(0, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 87: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 9)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 9)___Fried Rice(478, 1)___
+Water(0, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 88: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 9)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 4)___Protein Shake(163, 5)___Smoothie(175, 9)___Fried Rice(478, 1)___
+Water(0, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 89: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 9)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 9)___Fried Rice(478, 1)___
+Water(0, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 90: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 9)___Fried Rice(478, 1)___
+Water(0, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 91: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 9)___Fried Rice(478, 1)___
+Water(0, 3)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 92: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 1)___
+Water(0, 3)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 93: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 1)___
+Water(0, 3)___Cookie(153, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 94: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 3)___Cookie(153, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 95: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 9)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 3)___Cookie(153, 1)___Protein Bar(211, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 96: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 3)___Cookie(153, 1)___Protein Bar(211, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 97: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 4)___Cookie(153, 1)___Protein Bar(211, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 98: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 7)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 4)___Cookie(153, 1)___Protein Bar(211, 1)___Smoothie(175, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 99: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 8)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 4)___Cookie(153, 1)___Protein Bar(211, 1)___Smoothie(175, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 100: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 8)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 4)___Cookie(153, 2)___Protein Bar(211, 1)___Smoothie(175, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 101: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 8)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 5)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 4)___Cookie(153, 2)___Protein Bar(211, 1)___Smoothie(175, 2)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 102: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 8)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 6)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 4)___Cookie(153, 2)___Protein Bar(211, 1)___Smoothie(175, 2)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 103: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 6)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 4)___Cookie(153, 2)___Protein Bar(211, 1)___Smoothie(175, 2)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 104: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 6)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 4)___Cookie(153, 2)___Protein Bar(211, 1)___Smoothie(175, 2)___
+Cheese Sandwich(367, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 105: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 6)___Smoothie(175, 10)___Fried Rice(478, 2)___
+Water(0, 5)___Cookie(153, 2)___Protein Bar(211, 1)___Smoothie(175, 2)___
+Cheese Sandwich(367, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 106: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 6)___Smoothie(175, 10)___Fried Rice(478, 3)___
+Water(0, 5)___Cookie(153, 2)___Protein Bar(211, 1)___Smoothie(175, 2)___
+Cheese Sandwich(367, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 107: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 6)___Smoothie(175, 10)___Fried Rice(478, 3)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 2)___
+Cheese Sandwich(367, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 108: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 7)___Smoothie(175, 10)___Fried Rice(478, 3)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 2)___
+Cheese Sandwich(367, 1)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 109: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 7)___Smoothie(175, 10)___Fried Rice(478, 3)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 2)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 110: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 7)___Smoothie(175, 10)___Fried Rice(478, 4)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 2)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 111: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 7)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 7)___Smoothie(175, 10)___Fried Rice(478, 4)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 3)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 112: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 8)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 7)___Smoothie(175, 10)___Fried Rice(478, 4)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 3)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 113: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 8)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 7)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 3)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 114: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 9)___
+Beef Sandwich(487, 5)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 7)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 3)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 115: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 9)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 7)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 3)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 116: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 9)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 3)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 117: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 9)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 1)___Smoothie(175, 4)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 118: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 9)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 2)___Smoothie(175, 4)___
+Cheese Sandwich(367, 2)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 119: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 9)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 2)___Smoothie(175, 4)___
+Cheese Sandwich(367, 3)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 120: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 2)___Smoothie(175, 4)___
+Cheese Sandwich(367, 3)______(0, 0)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 121: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 3)___Protein Bar(211, 2)___Smoothie(175, 4)___
+Cheese Sandwich(367, 3)___Chicken Wrap(560, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 122: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 5)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 2)___Smoothie(175, 4)___
+Cheese Sandwich(367, 3)___Chicken Wrap(560, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 123: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 6)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 2)___Smoothie(175, 4)___
+Cheese Sandwich(367, 3)___Chicken Wrap(560, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 124: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 6)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 3)___Smoothie(175, 4)___
+Cheese Sandwich(367, 3)___Chicken Wrap(560, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 125: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 6)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 3)___Smoothie(175, 4)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 1)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 126: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 6)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 6)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 3)___Smoothie(175, 4)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 2)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 127: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 8)___Smoothie(175, 10)___Fried Rice(478, 6)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 3)___Smoothie(175, 4)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 2)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 128: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 6)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 3)___Smoothie(175, 4)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 2)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 129: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 7)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 3)___Smoothie(175, 4)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 2)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 130: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 7)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 3)___Smoothie(175, 5)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 2)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 131: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 7)___
+Water(0, 5)___Cookie(153, 4)___Protein Bar(211, 4)___Smoothie(175, 5)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 2)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 132: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 5)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 7)___
+Water(0, 5)___Cookie(153, 5)___Protein Bar(211, 4)___Smoothie(175, 5)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 2)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 133: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 7)___
+Water(0, 5)___Cookie(153, 5)___Protein Bar(211, 4)___Smoothie(175, 5)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 2)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 134: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 7)___
+Water(0, 5)___Cookie(153, 6)___Protein Bar(211, 4)___Smoothie(175, 5)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 2)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 135: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 7)___
+Water(0, 5)___Cookie(153, 6)___Protein Bar(211, 4)___Smoothie(175, 5)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 136: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 7)___
+Water(0, 5)___Cookie(153, 6)___Protein Bar(211, 4)___Smoothie(175, 6)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 137: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 7)___
+Water(0, 5)___Cookie(153, 7)___Protein Bar(211, 4)___Smoothie(175, 6)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 138: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 8)___
+Water(0, 5)___Cookie(153, 7)___Protein Bar(211, 4)___Smoothie(175, 6)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 139: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 8)___
+Water(0, 5)___Cookie(153, 7)___Protein Bar(211, 5)___Smoothie(175, 6)___
+Cheese Sandwich(367, 4)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 140: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 8)___
+Water(0, 5)___Cookie(153, 7)___Protein Bar(211, 5)___Smoothie(175, 6)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 141: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 7)___Protein Bar(211, 5)___Smoothie(175, 6)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 142: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 6)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 7)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 143: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 7)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 7)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 144: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 7)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 3)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 145: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 7)___Protein Shake(163, 9)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 4)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 146: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 7)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 4)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 147: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 9)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 8)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 4)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 148: Meatball Sandwich	33	54 82 36
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 8)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 4)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 149: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 9)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 4)______(0, 0)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 150: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 9)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 4)___Protein Shake(163, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 151: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 5)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 4)___Protein Shake(163, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 152: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 7)___
+Cheese Sandwich(367, 5)___Chicken Wrap(560, 4)___Protein Shake(163, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 153: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 7)___
+Cheese Sandwich(367, 6)___Chicken Wrap(560, 4)___Protein Shake(163, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 154: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 8)___
+Cheese Sandwich(367, 6)___Chicken Wrap(560, 4)___Protein Shake(163, 1)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 155: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 8)___
+Cheese Sandwich(367, 6)___Chicken Wrap(560, 4)___Protein Shake(163, 2)______(0, 0)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 156: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 9)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 8)___
+Cheese Sandwich(367, 6)___Chicken Wrap(560, 4)___Protein Shake(163, 2)___Energy Drink(148, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 157: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 8)___
+Cheese Sandwich(367, 6)___Chicken Wrap(560, 4)___Protein Shake(163, 2)___Energy Drink(148, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 158: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 8)___
+Cheese Sandwich(367, 6)___Chicken Wrap(560, 4)___Protein Shake(163, 3)___Energy Drink(148, 1)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 159: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 8)___
+Cheese Sandwich(367, 6)___Chicken Wrap(560, 4)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 160: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 8)___
+Cheese Sandwich(367, 7)___Chicken Wrap(560, 4)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+___(0, 0)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 161: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 8)___
+Cheese Sandwich(367, 7)___Chicken Wrap(560, 4)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 1)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 162: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 9)___
+Cheese Sandwich(367, 7)___Chicken Wrap(560, 4)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 1)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 163: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 8)___Protein Bar(211, 6)___Smoothie(175, 9)___
+Cheese Sandwich(367, 7)___Chicken Wrap(560, 5)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 1)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 164: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 9)___Protein Bar(211, 6)___Smoothie(175, 9)___
+Cheese Sandwich(367, 7)___Chicken Wrap(560, 5)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 1)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 165: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 9)___Protein Bar(211, 6)___Smoothie(175, 9)___
+Cheese Sandwich(367, 8)___Chicken Wrap(560, 5)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 1)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 166: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 9)___Protein Bar(211, 6)___Smoothie(175, 9)___
+Cheese Sandwich(367, 8)___Chicken Wrap(560, 5)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 2)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 167: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 7)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 9)___Protein Bar(211, 6)___Smoothie(175, 9)___
+Cheese Sandwich(367, 8)___Chicken Wrap(560, 6)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 2)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 168: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 9)___Protein Bar(211, 6)___Smoothie(175, 9)___
+Cheese Sandwich(367, 8)___Chicken Wrap(560, 6)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 2)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 169: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 9)___Protein Bar(211, 6)___Smoothie(175, 10)___
+Cheese Sandwich(367, 8)___Chicken Wrap(560, 6)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 2)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 170: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 9)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 8)___Chicken Wrap(560, 6)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 2)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 171: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 8)___Chicken Wrap(560, 6)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 2)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 172: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 8)___Chicken Wrap(560, 6)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 3)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 173: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 9)___Chicken Wrap(560, 6)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 3)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 174: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 9)___Chicken Wrap(560, 7)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 3)______(0, 0)______(0, 0)______(0, 0)___
+----------
+PRODUCT 175: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 9)___Chicken Wrap(560, 7)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 3)___Smoothie(175, 1)______(0, 0)______(0, 0)___
+----------
+PRODUCT 176: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 9)___Chicken Wrap(560, 7)___Protein Shake(163, 3)___Energy Drink(148, 2)___
+Fried Rice(478, 4)___Smoothie(175, 1)______(0, 0)______(0, 0)___
+----------
+PRODUCT 177: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 9)___Chicken Wrap(560, 7)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 4)___Smoothie(175, 1)______(0, 0)______(0, 0)___
+----------
+PRODUCT 178: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 9)___Chicken Wrap(560, 7)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 4)___Smoothie(175, 1)___Cookie(153, 1)______(0, 0)___
+----------
+PRODUCT 179: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 7)___Smoothie(175, 10)___
+Cheese Sandwich(367, 9)___Chicken Wrap(560, 7)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 4)___Smoothie(175, 2)___Cookie(153, 1)______(0, 0)___
+----------
+PRODUCT 180: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 8)___Smoothie(175, 10)___
+Cheese Sandwich(367, 9)___Chicken Wrap(560, 7)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 4)___Smoothie(175, 2)___Cookie(153, 1)______(0, 0)___
+----------
+PRODUCT 181: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 8)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 7)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 4)___Smoothie(175, 2)___Cookie(153, 1)______(0, 0)___
+----------
+PRODUCT 182: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 8)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 8)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 4)___Smoothie(175, 2)___Cookie(153, 1)______(0, 0)___
+----------
+PRODUCT 183: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 8)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 9)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 4)___Smoothie(175, 2)___Cookie(153, 1)______(0, 0)___
+----------
+PRODUCT 184: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 8)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 9)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 4)___Smoothie(175, 2)___Cookie(153, 2)______(0, 0)___
+----------
+PRODUCT 185: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 8)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 9)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 5)___Smoothie(175, 2)___Cookie(153, 2)______(0, 0)___
+----------
+PRODUCT 186: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 9)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 9)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 5)___Smoothie(175, 2)___Cookie(153, 2)______(0, 0)___
+----------
+PRODUCT 187: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 9)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 9)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 5)___Smoothie(175, 2)___Cookie(153, 2)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 188: Chicken Wrap	18	32 45 28
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 8)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 9)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 5)___Smoothie(175, 2)___Cookie(153, 2)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 189: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 9)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 5)___Smoothie(175, 2)___Cookie(153, 2)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 190: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 9)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 5)___Smoothie(175, 3)___Cookie(153, 2)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 191: Protein Bar	5	20 21 5.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 5)___Smoothie(175, 3)___Cookie(153, 2)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 192: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 3)___
+Fried Rice(478, 5)___Smoothie(175, 3)___Cookie(153, 3)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 193: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 4)___
+Fried Rice(478, 5)___Smoothie(175, 3)___Cookie(153, 3)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 194: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 4)___
+Fried Rice(478, 5)___Smoothie(175, 3)___Cookie(153, 4)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 195: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 4)___
+Fried Rice(478, 6)___Smoothie(175, 3)___Cookie(153, 4)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 196: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 4)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 4)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 197: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 4)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 5)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 198: Protein Bar	5	20 21 5.2
+INFO: There is no available place to put Protein Bar
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 4)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 5)___Cheese Sandwich(367, 1)___
+----------
+PRODUCT 199: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 4)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 5)___Cheese Sandwich(367, 2)___
+----------
+PRODUCT 200: Meatball Sandwich	33	54 82 36
+INFO: There is no available place to put Meatball Sandwich
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 4)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 5)___Cheese Sandwich(367, 2)___
+----------
+PRODUCT 201: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 5)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 5)___Cheese Sandwich(367, 2)___
+----------
+PRODUCT 202: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 5)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 2)___
+----------
+PRODUCT 203: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 6)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 2)___
+----------
+PRODUCT 204: Protein Bar	5	20 21 5.2
+INFO: There is no available place to put Protein Bar
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 6)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 2)___
+----------
+PRODUCT 205: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 6)___
+Fried Rice(478, 6)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 206: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 3)___Energy Drink(148, 6)___
+Fried Rice(478, 7)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 207: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 4)___Energy Drink(148, 6)___
+Fried Rice(478, 7)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 208: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 4)___Energy Drink(148, 7)___
+Fried Rice(478, 7)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 209: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 4)___Energy Drink(148, 7)___
+Fried Rice(478, 8)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 210: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 5)___Energy Drink(148, 7)___
+Fried Rice(478, 8)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 211: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 5)___Energy Drink(148, 8)___
+Fried Rice(478, 8)___Smoothie(175, 4)___Cookie(153, 6)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 212: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 5)___Energy Drink(148, 8)___
+Fried Rice(478, 8)___Smoothie(175, 4)___Cookie(153, 7)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 213: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 5)___Energy Drink(148, 8)___
+Fried Rice(478, 9)___Smoothie(175, 4)___Cookie(153, 7)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 214: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 6)___Energy Drink(148, 8)___
+Fried Rice(478, 9)___Smoothie(175, 4)___Cookie(153, 7)___Cheese Sandwich(367, 3)___
+----------
+PRODUCT 215: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 5)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 6)___Energy Drink(148, 8)___
+Fried Rice(478, 9)___Smoothie(175, 4)___Cookie(153, 7)___Cheese Sandwich(367, 4)___
+----------
+PRODUCT 216: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 9)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 6)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 6)___Energy Drink(148, 8)___
+Fried Rice(478, 9)___Smoothie(175, 4)___Cookie(153, 7)___Cheese Sandwich(367, 4)___
+----------
+PRODUCT 217: Beef Sandwich	20	33 28 27
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 6)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 6)___Energy Drink(148, 8)___
+Fried Rice(478, 9)___Smoothie(175, 4)___Cookie(153, 7)___Cheese Sandwich(367, 4)___
+----------
+PRODUCT 218: Fried Rice	15	11 90 8.2
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 6)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 6)___Energy Drink(148, 8)___
+Fried Rice(478, 10)___Smoothie(175, 4)___Cookie(153, 7)___Cheese Sandwich(367, 4)___
+----------
+PRODUCT 219: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 6)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 6)___Energy Drink(148, 9)___
+Fried Rice(478, 10)___Smoothie(175, 4)___Cookie(153, 7)___Cheese Sandwich(367, 4)___
+----------
+PRODUCT 220: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 6)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 7)___Energy Drink(148, 9)___
+Fried Rice(478, 10)___Smoothie(175, 4)___Cookie(153, 7)___Cheese Sandwich(367, 4)___
+----------
+PRODUCT 221: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 6)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 7)___Energy Drink(148, 9)___
+Fried Rice(478, 10)___Smoothie(175, 5)___Cookie(153, 7)___Cheese Sandwich(367, 4)___
+----------
+PRODUCT 222: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 7)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 7)___Energy Drink(148, 9)___
+Fried Rice(478, 10)___Smoothie(175, 5)___Cookie(153, 7)___Cheese Sandwich(367, 4)___
+----------
+PRODUCT 223: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 7)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 7)___Energy Drink(148, 9)___
+Fried Rice(478, 10)___Smoothie(175, 5)___Cookie(153, 7)___Cheese Sandwich(367, 5)___
+----------
+PRODUCT 224: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 8)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 7)___Energy Drink(148, 9)___
+Fried Rice(478, 10)___Smoothie(175, 5)___Cookie(153, 7)___Cheese Sandwich(367, 5)___
+----------
+PRODUCT 225: Beef Sandwich	20	33 28 27
+INFO: There is no available place to put Beef Sandwich
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 8)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 7)___Energy Drink(148, 9)___
+Fried Rice(478, 10)___Smoothie(175, 5)___Cookie(153, 7)___Cheese Sandwich(367, 5)___
+----------
+PRODUCT 226: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 8)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 7)___Energy Drink(148, 9)___
+Fried Rice(478, 10)___Smoothie(175, 6)___Cookie(153, 7)___Cheese Sandwich(367, 5)___
+----------
+PRODUCT 227: Energy Drink	8	1 36 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 8)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 7)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 6)___Cookie(153, 7)___Cheese Sandwich(367, 5)___
+----------
+PRODUCT 228: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 8)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 8)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 6)___Cookie(153, 7)___Cheese Sandwich(367, 5)___
+----------
+PRODUCT 229: Fried Rice	15	11 90 8.2
+INFO: There is no available place to put Fried Rice
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 8)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 8)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 6)___Cookie(153, 7)___Cheese Sandwich(367, 5)___
+----------
+PRODUCT 230: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 9)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 8)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 6)___Cookie(153, 7)___Cheese Sandwich(367, 5)___
+----------
+PRODUCT 231: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 9)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 8)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 6)___Cookie(153, 7)___Cheese Sandwich(367, 6)___
+----------
+PRODUCT 232: Water	3	0 0 0
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 8)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 6)___Cookie(153, 7)___Cheese Sandwich(367, 6)___
+----------
+PRODUCT 233: Beef Sandwich	20	33 28 27
+INFO: There is no available place to put Beef Sandwich
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 8)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 6)___Cookie(153, 7)___Cheese Sandwich(367, 6)___
+----------
+PRODUCT 234: Fried Rice	15	11 90 8.2
+INFO: There is no available place to put Fried Rice
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 8)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 6)___Cookie(153, 7)___Cheese Sandwich(367, 6)___
+----------
+PRODUCT 235: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 8)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 7)___Cookie(153, 7)___Cheese Sandwich(367, 6)___
+----------
+PRODUCT 236: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 9)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 7)___Cookie(153, 7)___Cheese Sandwich(367, 6)___
+----------
+PRODUCT 237: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 9)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 7)___Cookie(153, 7)___Cheese Sandwich(367, 7)___
+----------
+PRODUCT 238: Water	3	0 0 0
+INFO: There is no available place to put Water
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 9)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 7)___Cookie(153, 7)___Cheese Sandwich(367, 7)___
+----------
+PRODUCT 239: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 9)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 8)___Cookie(153, 7)___Cheese Sandwich(367, 7)___
+----------
+PRODUCT 240: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 9)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 8)___Cookie(153, 8)___Cheese Sandwich(367, 7)___
+----------
+PRODUCT 241: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 9)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 8)___Cookie(153, 9)___Cheese Sandwich(367, 7)___
+----------
+PRODUCT 242: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 9)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 7)___
+----------
+PRODUCT 243: Protein Shake	8	19 2.5 8.5
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 7)___
+----------
+PRODUCT 244: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 8)___
+----------
+PRODUCT 245: Water	3	0 0 0
+INFO: There is no available place to put Water
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 8)___
+----------
+PRODUCT 246: Beef Sandwich	20	33 28 27
+INFO: There is no available place to put Beef Sandwich
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 8)___
+----------
+PRODUCT 247: Fried Rice	15	11 90 8.2
+INFO: There is no available place to put Fried Rice
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 8)___
+----------
+PRODUCT 248: Energy Drink	8	1 36 0
+INFO: There is no available place to put Energy Drink
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 8)___
+----------
+PRODUCT 249: Protein Shake	8	19 2.5 8.5
+INFO: There is no available place to put Protein Shake
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 8)___
+----------
+PRODUCT 250: Water	3	0 0 0
+INFO: There is no available place to put Water
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 8)___
+----------
+PRODUCT 251: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 9)___Cookie(153, 9)___Cheese Sandwich(367, 9)___
+----------
+PRODUCT 252: Smoothie	8	5.5 34 1.9
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 10)___Cookie(153, 9)___Cheese Sandwich(367, 9)___
+----------
+PRODUCT 253: Cookie	5	1.5 20 7.4
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 10)___Cookie(153, 10)___Cheese Sandwich(367, 9)___
+----------
+PRODUCT 254: Cheese Sandwich	13	12 28 23
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 10)___Cookie(153, 10)___Cheese Sandwich(367, 10)___
+----------
+PRODUCT 255: Chickpea Salad	12	11.5 37 12.9
+INFO: There is no available place to put Chickpea Salad
+INFO: The machine is full!
+-----Gym Meal Machine-----
+Fried Rice(478, 10)___Meatball Sandwich(868, 10)___Protein Bar(211, 10)___Chicken Wrap(560, 10)___
+Beef Sandwich(487, 10)___Cookie(153, 10)___Water(0, 10)___Cheese Sandwich(367, 10)___
+Energy Drink(148, 10)___Protein Shake(163, 10)___Smoothie(175, 10)___Fried Rice(478, 10)___
+Water(0, 10)___Cookie(153, 10)___Protein Bar(211, 10)___Smoothie(175, 10)___
+Cheese Sandwich(367, 10)___Chicken Wrap(560, 10)___Protein Shake(163, 10)___Energy Drink(148, 10)___
+Fried Rice(478, 10)___Smoothie(175, 10)___Cookie(153, 10)___Cheese Sandwich(367, 10)___
+----------
